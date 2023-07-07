@@ -1,4 +1,3 @@
-# Mini-Whatsapp
 # Mini Whatsapp
 
 ## `**Instructions**`
