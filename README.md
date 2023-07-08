@@ -62,4 +62,4 @@ This project was created as part of a learning experience and is not intended fo
 
 ## Contact
 
-If you have any questions or suggestions, please feel free to contact at (mailto:- anandkumarguptakg15@gmail.com).
+If you have any questions or suggestions, please feel free to contact at 📬 anandkumarguptakg15@gmail.com.
