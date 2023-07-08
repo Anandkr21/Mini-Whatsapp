@@ -60,6 +60,6 @@ This is a mini chat application built using Socket.io. It allows users to join a
 
 This project was created as part of a learning experience and is not intended for production use.
 
-## Contact
+## Contact 📬
 
 If you have any questions or suggestions, please feel free to contact at 📬 anandkumarguptakg15@gmail.com
